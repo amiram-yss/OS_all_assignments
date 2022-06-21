@@ -1,0 +1,3 @@
+/home/amiramyss/Desktop/OS1/part3/cmake-build-debug/CMakeFiles/part_3.dir
+/home/amiramyss/Desktop/OS1/part3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amiramyss/Desktop/OS1/part3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
