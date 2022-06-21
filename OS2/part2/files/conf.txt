@@ -1,3 +1,0 @@
-/home/amiramyss/Desktop/OS/OS2/part2/files/students
-/home/amiramyss/Desktop/OS/OS2/part2/files/io/input.txt
-/home/amiramyss/Desktop/OS/OS2/part2/files/io/correct_output.txt
