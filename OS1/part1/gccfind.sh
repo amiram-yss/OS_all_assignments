@@ -1,4 +1,5 @@
 #!/bin/bash
+#Amiram Yassif 314985474
 
 #Check for 2 params to the least
 if [[ $2 == "" ]]
