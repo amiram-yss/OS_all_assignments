@@ -1,4 +1,5 @@
 #!/bin/bash
+#Amiram Yassif 314985474
 declare -i position=0
 declare -i pts1=50
 declare -i pts2=50
